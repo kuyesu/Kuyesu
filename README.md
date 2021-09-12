@@ -52,7 +52,7 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
   <img align="left" src="https://github-readme-stats-i6zbm2nne-kuyesu.vercel.app/api?username=kuyesu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kuyesu Rogers stats">
 </a>
 <a href="https://github.com/kuyesu/" >
-<img align="right" src="https://github-readme-stats-i6zbm2nne-kuyesu.vercel.app/api/top-langs/?username=kuyesu&exclude_repo=github-readme-stats&line_height=20&hide=javascript,html,css,scss,roff&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40,kuyesu.github.io" alt="Kuyesu Rogers stats">
+<img align="right" src="https://github-readme-stats-i6zbm2nne-kuyesu.vercel.app/api/top-langs/?username=kuyesu&exclude_repo=github-readme-stats&line_height=20&hide=javascript,powershell,html,css,scss,roff&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40,kuyesu.github.io" alt="Kuyesu Rogers stats">
 </a>
 
 
