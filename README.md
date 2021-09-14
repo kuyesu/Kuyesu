@@ -26,8 +26,8 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-🔭 I’m currently working on Mbarara University Learning Platform powered by Open Edx
-<h5>Project Link <a href="https://mustlearning.asherlearn.host">mustlearning.asherlearn.host</a></h5>
+<!-- 🔭 I’m currently working on Mbarara University Learning Platform powered by Open Edx
+<h5>Project Link <a href="https://mustlearning.asherlearn.host">mustlearning.asherlearn.host</a></h5> -->
 
 
 <div align="">
