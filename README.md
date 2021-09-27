@@ -31,9 +31,9 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
 
 <table>
     <tr>
-    <th>LANGUAGE</th>
-    <th>FRAMEWORK</th>
-    <th>CI / CID </th>
+        <th>LANGUAGE</th>
+        <th>FRAMEWORK</th>
+        <th>CI / CID </th>
     </tr>
     
     <tr>
