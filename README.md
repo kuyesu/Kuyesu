@@ -29,7 +29,7 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
 <!-- 🔭 I’m currently working on Mbarara University Learning Platform powered by Open Edx
 <h5>Project Link <a href="https://mustlearning.asherlearn.host">mustlearning.asherlearn.host</a></h5> -->
 
-<p><table>
+<table>
     <tr>
     <th>LANGUAGE</th>
     <th>FRAMEWORK</th>
@@ -41,7 +41,7 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
         <td>Django</td>
         <td>Ansible</td>
     </tr>
-</table></p>
+</table>
 
 <div align="">
 
