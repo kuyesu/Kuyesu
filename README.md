@@ -29,6 +29,19 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
 <!-- 🔭 I’m currently working on Mbarara University Learning Platform powered by Open Edx
 <h5>Project Link <a href="https://mustlearning.asherlearn.host">mustlearning.asherlearn.host</a></h5> -->
 
+<p><table>
+    <tr>
+    <th>LANGUAGE</th>
+    <th>FRAMEWORK</th>
+    <th>CI / CID </th>
+    </tr>
+    
+    <tr>
+        <td>Python</td>
+        <td>Django</td>
+        <td>Ansible</td>
+    </tr>
+</table></p>
 
 <div align="">
 
