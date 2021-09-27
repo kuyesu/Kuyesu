@@ -36,11 +36,11 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
         <th>CI / CID </th>
     </tr>
     
-    <tr>
+<!--     <tr>
         <td>Python</td>
         <td>Django</td>
         <td>Ansible</td>
-    </tr>
+    </tr> -->
 </table>
 
 <div align="">
