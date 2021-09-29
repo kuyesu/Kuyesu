@@ -4,7 +4,6 @@
 </div> 
 <br>
 
-:joy:
 
 I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
 <br>
