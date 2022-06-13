@@ -10,7 +10,7 @@ I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
 
 ---
 ## Wants to know about Goodman:
-😄 Pronouns : He/Him :man:
+😄 Pronouns : Kuyesu:
 
 <!--
 **kuyesu/Kuyesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
