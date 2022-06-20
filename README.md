@@ -3,6 +3,47 @@
 <!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 </h2>
 </div> 
+<div align="">
+
+<br>
+
+<a href="https://www.linkedin.com/in/kuyeso-rogers-040ab3198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://wa.me/25784161242?text=Hi%20Rogers%20Goodman" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%231ED760.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.facebook.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://github.com/kuyesu" target="_blank"><img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
+<a href="https://twitter.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+</div>
+
+---
+<br />
+
+
+<div align="">
+<a href="https://github.com/kuyesu/github-readme-stats">
+    
+  <img align="left" src="https://github-readme-stats-8ln4gxrk6-kuyesu.vercel.app/api?username=kuyesu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kuyesu Rogers stats">
+</a>
+<a href="https://github.com/kuyesu/" >
+<img align="right" src="https://github-readme-stats-8ln4gxrk6-kuyesu.vercel.app/api/top-langs/?username=kuyesu&exclude_repo=github-readme-stats&line_height=20&hide=php,dockerfile,powershell,html,css,scss,roff&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40,kuyesu.github.io" alt="Kuyesu Rogers stats">
+</a>
+
+
+</br>
+</br>
+
+</br>
+</br>
+
+</br>
+</br>
+
+</br>
+</br>
+<i>Random developers' joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+
 <br>
 
 
@@ -162,67 +203,9 @@
   </tbody>
 </table>
 
-## Creative Coding
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Processing</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/processing.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Max 8</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/max8.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span>Opusmodus</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/opusmodus.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
-<div align="">
 
-<br>
-
-<a href="https://www.linkedin.com/in/kuyeso-rogers-040ab3198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://wa.me/25784161242?text=Hi%20Rogers%20Goodman" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%231ED760.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://www.facebook.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://github.com/kuyesu" target="_blank"><img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
-<a href="https://twitter.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
-</div>
-
----
-<br />
-
-
-<div align="">
-<a href="https://github.com/kuyesu/github-readme-stats">
-    
-  <img align="left" src="https://github-readme-stats-8ln4gxrk6-kuyesu.vercel.app/api?username=kuyesu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kuyesu Rogers stats">
-</a>
-<a href="https://github.com/kuyesu/" >
-<img align="right" src="https://github-readme-stats-8ln4gxrk6-kuyesu.vercel.app/api/top-langs/?username=kuyesu&exclude_repo=github-readme-stats&line_height=20&hide=php,dockerfile,powershell,html,css,scss,roff&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40,kuyesu.github.io" alt="Kuyesu Rogers stats">
-</a>
-
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-<i>Random developers' joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
 
