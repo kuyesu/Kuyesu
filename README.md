@@ -1,12 +1,17 @@
 <div>
-<h2> Hi there 👋 
+<h2> Hi there 👋 , I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨** 
 <!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 </h2>
 </div> 
 <br>
 
 
-I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨**
+## Speaking Languages
+
+    🇺🇬  Luo  ████████████████████ Native  
+    🇬🇧 English   ███████████████████░ Proficient  
+    🇰🇪 Swahili   ████████████░░░░░░░░ Intermediate 
+    🇪🇸 Spanish    ██░░░░░░░░░░░░░░░░░░ Beginner  
 <br>
 
 ---
