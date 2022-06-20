@@ -8,9 +8,9 @@
 
 ## Speaking Languages
 
-    🇺🇬  Luo  ████████████████████ Native  
-    🇬🇧 English   ███████████████████░ Proficient  
-    🇰🇪 Swahili   ████████████░░░░░░░░ Intermediate 
+    🇺🇬  Luo       ████████████████████ Native  
+    🇬🇧 English    ███████████████████░ Proficient  
+    🇰🇪 Swahili    ████████████░░░░░░░░ Intermediate 
     🇪🇸 Spanish    ██░░░░░░░░░░░░░░░░░░ Beginner  
 <br>
 
@@ -36,19 +36,153 @@
 <!-- 🔭 I’m currently working on Mbarara University Learning Platform powered by Open Edx
 <h5>Project Link <a href="https://mustlearning.asherlearn.host">mustlearning.asherlearn.host</a></h5> -->
 
+## Development Environments
+
 <table>
-    <tr>
-        <th>LANGUAGE</th>
-        <th>FRAMEWORK</th>
-        <th>CI / CID </th>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Ruby</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
     </tr>
-    
-<!--     <tr>
-        <td>Python</td>
-        <td>Django</td>
-        <td>Ansible</td>
-    </tr> -->
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Visual Studio Code</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>CircleCI</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/circleci.svg">
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+## Web Frontend
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>React.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Vue.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>CSS 3</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Gatsby.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Next.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Apollo GraphQL</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Web Backend
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Express.js</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/express.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Nest.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Ruby on Rails</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/rails.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Swagger</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/swagger.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>GraphQL</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Infrastructure
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Firebase</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Terraform</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Creative Coding
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Processing</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/processing.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Max 8</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/max8.jpg">
+      </td>
+      <td width="25%" align="center">
+        <span>Opusmodus</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/opusmodus.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <div align="">
 
