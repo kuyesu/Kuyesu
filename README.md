@@ -1,5 +1,5 @@
 <div>
-<h2> Hi there 👋 , I am  Kuyeso Rogers  - aka,  Goodman  ✨
+<h2> Hi there 👋 , I am  Kuyeso Rogers  - Software Developer | AI Innovator | Competitive Programming | NLP
 <!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 </h2>
 </div> 
