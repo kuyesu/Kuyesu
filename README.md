@@ -1,5 +1,5 @@
 <div>
-<h2> Hi there 👋 , I am  **Kuyeso Rogers**  - aka,  **Goodman  ✨** 
+<h2> Hi there 👋 , I am  Kuyeso Rogers  - aka,  Goodman  ✨
 <!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 </h2>
 </div> 
@@ -77,12 +77,12 @@
 <!-- 🔭 I’m currently working on Mbarara University Learning Platform powered by Open Edx
 <h5>Project Link <a href="https://mustlearning.asherlearn.host">mustlearning.asherlearn.host</a></h5> -->
 
-## Development Environments
+<!-- ## Development Environments
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="25%" align="center"> -
         <span>Node.js</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
@@ -90,25 +90,25 @@
         <span>Ruby</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="25%" align="center"> -
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="25%" align="center"> -
         <span>Visual Studio Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
+        <span>Docker</span><br><br><br>-
         <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
       </td>
       <td width="25%" align="center">
         <span>CircleCI</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/circleci.svg">
       </td>
-    </tr>
+    </tr>-
   </tbody>
 </table>
 
@@ -117,35 +117,35 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="25%" align="center"> -
         <span>React.js</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>Vue.js</span><br><br><br>
+        <span>Vue.js</span><br><br><br> -
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="25%" align="center">
         <span>CSS 3</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
+      </td> -
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Gatsby.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg"> --
       </td>
       <td width="25%" align="center">
         <span>Next.js</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
+      </td> --
       <td width="25%" align="center">
         <span>Apollo GraphQL</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg">
       </td>
-    </tr>
+    </tr> --
   </tbody>
-</table>
+</table> --
 
 ## Web Backend
 
@@ -153,11 +153,11 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Express.js</span><br><br><br>
+        <span>Express.js</span><br><br><br> --
         <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/express.png">
       </td>
       <td width="25%" align="center">
-        <span>Nest.js</span><br><br><br>
+        <span>Nest.js</span><br><br><br>  
         <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
       </td>
       <td width="25%" align="center">
@@ -202,7 +202,7 @@
     </tr>
   </tbody>
 </table>
-
+ -->
 
 
 
