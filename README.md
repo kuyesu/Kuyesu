@@ -1,225 +1,34 @@
-<div>
-<h2> Hi there 👋 , Software Developer | AI Innovator | Competitive Programming | NLP
-<!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-</h2>
-</div> 
-<div align="">
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<br>
+## Getting Started
 
-<a href="https://www.linkedin.com/in/kuyeso-rogers-040ab3198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://wa.me/25784161242?text=Hi%20Rogers%20Goodman" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%231ED760.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://www.facebook.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://github.com/kuyesu" target="_blank"><img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
-<a href="https://twitter.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+First, run the development server:
 
-</div>
+```bash
+npm run dev
+# or
+yarn dev
+```
 
----
-<br />
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-<div align="">
-<a href="https://github.com/kuyesu/github-readme-stats">
-    
-  <img align="left" src="https://github-readme-stats-8ln4gxrk6-kuyesu.vercel.app/api?username=kuyesu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kuyesu Rogers stats">
-</a>
-<a href="https://github.com/kuyesu/" >
-<img align="right" src="https://github-readme-stats-8ln4gxrk6-kuyesu.vercel.app/api/top-langs/?username=kuyesu&exclude_repo=github-readme-stats&line_height=20&hide=php,dockerfile,powershell,html,css,scss,roff&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40,kuyesu.github.io" alt="Kuyesu Rogers stats">
-</a>
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-</br>
-</br>
+## Learn More
 
-</br>
-</br>
+To learn more about Next.js, take a look at the following resources:
 
-</br>
-</br>
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-</br>
-</br>
-<i>Random developers' joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Deploy on Vercel
 
-<br>
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-## Speaking Languages
-
-    🇺🇬  Luo       ████████████████████ Native  
-    🇬🇧 English    ███████████████████░ Proficient  
-    🇰🇪 Swahili    ████████████░░░░░░░░ Intermediate 
-    🇫🇷 French     ██░░░░░░░░░░░░░░░░░░ Beginner  
-<br>
-
----
-## Wants to know about Goodman:
-😄 Pronouns : Him/He: Kuyesu: goodman 
-<!-- <img src="https://komarev.com/ghpvc/?username=kuyesu"/> -->
-
-<!--
-**kuyesu/Kuyesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!-- Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... -->
-👯 My goal is to collaborate more on Open Source projects
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<!-- 🔭 I’m currently working on Mbarara University Learning Platform powered by Open Edx
-<h5>Project Link <a href="https://mustlearning.asherlearn.host">mustlearning.asherlearn.host</a></h5> -->
-
-<!-- ## Development Environments
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center"> -
-        <span>Node.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Ruby</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
-      </td>
-      <td width="25%" align="center"> -
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center"> -
-        <span>Visual Studio Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Docker</span><br><br><br>-
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CircleCI</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/circleci.svg">
-      </td>
-    </tr>-
-  </tbody>
-</table>
-
-## Web Frontend
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center"> -
-        <span>React.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Vue.js</span><br><br><br> -
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CSS 3</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td> -
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Gatsby.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg"> --
-      </td>
-      <td width="25%" align="center">
-        <span>Next.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td> --
-      <td width="25%" align="center">
-        <span>Apollo GraphQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg">
-      </td>
-    </tr> --
-  </tbody>
-</table> --
-
-## Web Backend
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Express.js</span><br><br><br> --
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/express.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Nest.js</span><br><br><br>  
-        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Ruby on Rails</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/rails.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Swagger</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/swagger.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>GraphQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Infrastructure
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Terraform</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
- -->
-
-
-
-
----
-
-<br>
-<div align="center">
-<i>Connect with me</i><br>
-
-<br>
-<a href="https://www.linkedin.com/in/kuyeso-rogers-040ab3198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://wa.me/25784161242?text=Hi%20Rogers%20Goodman" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%231ED760.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://www.facebook.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://github.com/kuyesu" target="_blank"><img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
-<a href="https://twitter.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
-</div>
-
-</div>
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
