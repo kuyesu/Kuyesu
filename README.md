@@ -12,6 +12,7 @@
 <a href="https://www.facebook.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://github.com/kuyesu" target="_blank"><img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 <a href="https://twitter.com/KuyesoRogers" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://ku-yesu.com/" target="_blank"><img src="https://img.shields.io/badge/Google-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Google"></a>
 
 </div>
 
