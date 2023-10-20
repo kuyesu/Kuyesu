@@ -57,9 +57,9 @@
 <br>
 
 ---
-## Wants to know about Goodman:
-😄 Pronouns : Him/He: Kuyesu: goodman 
-<!-- <img src="https://komarev.com/ghpvc/?username=kuyesu"/> -->
+<!--## Wants to know about Goodman:
+😄 Pronouns : Him/He: Kuyesu: goodman --> 
+<img src="https://komarev.com/ghpvc/?username=kuyesu"/> 
 
 <!--
 **kuyesu/Kuyesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,7 +69,7 @@
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
-👯 My goal is to collaborate more on Open Source projects
+👯 My goal is to acheive tough challenges
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
