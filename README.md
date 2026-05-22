@@ -53,7 +53,6 @@
     🇺🇬  Luo       ████████████████████ Native  
     🇬🇧 English    ███████████████████░ Proficient  
     🇰🇪 Swahili    ████████████░░░░░░░░ Intermediate 
-    <!-- 🇫🇷 French     ██░░░░░░░░░░░░░░░░░░ Beginner  -->
 <br>
 
 ---
